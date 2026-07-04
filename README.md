@@ -1,4 +1,4 @@
-# Personal Finance Agent - Financial RAG Challenge
+# US Treasury data project
 
 Built a RAG system to answer questions about US Treasury records. Did a baseline version (basic/naive) then an engineered version (better chunking + metadata filtering) to see how much it actually improves things.
 
